@@ -36,9 +36,9 @@ short_bio: >-
   In conclusion, our research group operates at the intersection of technology and creativity, combining scientific rigour with an inventive spirit. By drawing on our strengths in computer graphics, artificial intelligence, extended reality, and human-computer interaction, we aim to transform how people interact with and perceive the digital world (see [Research](research)).
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/logoXRAI.png
+# portrait_caption: >-
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Massachusetts Institute of Technology
