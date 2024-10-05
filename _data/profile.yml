@@ -22,7 +22,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  We are a research group at the <a href="https://www.unibas.it" target="_blank">https://www.unibas.it</a> specialising in Computer Graphics and Artificial Intelligence. Our mission is to foster the exploration of these technologies for immersive XR experiences, human-centric interfaces, realistic simulations, and innovative content generation using artificial intelligence.
+  We are a research group at the <a href="https://www.unibas.it" target="_blank">University of Basilicata</a> specialising in Computer Graphics and Artificial Intelligence. Our mission is to foster the exploration of these technologies for immersive XR experiences, human-centric interfaces, realistic simulations, and innovative content generation using artificial intelligence.
   </p>
   <p>
   In Computer Graphics, we work on the cutting edge, pushing the envelope of what is possible in creating lifelike and immersive virtual environments. Our work in this area spans the entire gamut from realistic rendering, animation, and visual effects to developing novel algorithms that can efficiently generate and manage complex 3D environments.
