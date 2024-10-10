@@ -4,7 +4,7 @@ navbar_name: "XR&AI Lab @ UniBas"
 
 positions:
 #- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-- name: Department of Engineering
+- name: <a href="https://diing.unibas.it/site/home.html" target="_blank">Department of Engineering </a>
 - name: <a href="https://www.unibas.it" target="_blank">University of Basilicata</a>
 
 
