@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_data",
+    "\\_people",
+    "\\_people\\default",
+    "\\_showcase",
+    "\\_showcase\\default"
   ],
-  "SelectedNode": "\\C:\\Users\\ugoer\\Source\\Repos\\xrailab\\academic-homepage",
+  "SelectedNode": "\\_people",
   "PreviewInSolutionExplorer": false
 }
