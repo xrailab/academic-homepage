@@ -1,11 +1,11 @@
 primary_name: "eXtended Reality & Artificial Intelligence Lab"
-secondary_name: "Department of Engineering - University of Basilicata"
+#secondary_name: "Department of Engineering - University of Basilicata"
 navbar_name: "XR&AI Lab @ UniBas"
 
 positions:
 #- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
--  name: Position 1 with logo
-- name: Position 2 without logo
+- name: Department of Engineering
+- name: University of Basilicata
 
 
 email: "lab3d@unibas.it"
