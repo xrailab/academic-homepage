@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_data\\profile.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\profile.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_people\\welcome.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_people\\welcome.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_showcase\\default\\welcome.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_showcase\\default\\welcome.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_data\\profile.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\profile.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "welcome.md",
+              "DocumentMoniker": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_people\\welcome.md",
+              "RelativeDocumentMoniker": "_people\\welcome.md",
+              "ToolTip": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_people\\welcome.md",
+              "RelativeToolTip": "_people\\welcome.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-10T21:37:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "navigation.yml",
+              "DocumentMoniker": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_data\\navigation.yml",
+              "RelativeDocumentMoniker": "_data\\navigation.yml",
+              "ToolTip": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_data\\navigation.yml",
+              "RelativeToolTip": "_data\\navigation.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-10T21:35:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-10T21:34:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "welcome.md",
+              "DocumentMoniker": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_showcase\\default\\welcome.md",
+              "RelativeDocumentMoniker": "_showcase\\default\\welcome.md",
+              "ToolTip": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_showcase\\default\\welcome.md",
+              "RelativeToolTip": "_showcase\\default\\welcome.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-10T21:34:43.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -34,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "profile.yml",
               "DocumentMoniker": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_data\\profile.yml",
               "RelativeDocumentMoniker": "_data\\profile.yml",
               "ToolTip": "C:\\Users\\ugoer\\source\\repos\\xrailab\\academic-homepage\\_data\\profile.yml",
               "RelativeToolTip": "_data\\profile.yml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-10-10T21:11:00.071Z",
               "EditorCaption": ""

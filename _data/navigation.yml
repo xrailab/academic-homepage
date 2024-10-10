@@ -1,7 +1,7 @@
 pages:
 - name: Home
   url: /
-- name: People
+- name: People2
   url: /people
 - name: Publications
   url: /publications
