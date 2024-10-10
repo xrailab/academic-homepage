@@ -5,7 +5,7 @@ navbar_name: "XR&AI Lab @ UniBas"
 positions:
 #- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 - name: Department of Engineering
-- name: University of Basilicata
+- name: <a href="https://www.unibas.it" target="_blank">University of Basilicata</a>
 
 
 email: "lab3d@unibas.it"
@@ -36,7 +36,7 @@ short_bio: >-
   In conclusion, our research group operates at the intersection of technology and creativity, combining scientific rigour with an inventive spirit. By drawing on our strengths in computer graphics, artificial intelligence, extended reality, and human-computer interaction, we aim to transform how people interact with and perceive the digital world (see [Research](research)).
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/LogoXRAI.png
 # portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
