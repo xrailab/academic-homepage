@@ -1,6 +1,8 @@
 pages:
 - name: Home
   url: /
+- name: People
+  url: /people
 - name: Publications
   url: /publications
 - name: Showcase
